@@ -5,8 +5,7 @@ using System;
 
 
 class Measurements  // this is a class which is just for containing all the variables used inside the
-                    //code in various places to keep them from losing or giving error
-{
+  {                 //code in various places to keep them from losing or giving error
     public double length;
     public double breadth;
     public double glassArea;
