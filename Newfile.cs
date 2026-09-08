@@ -15,7 +15,7 @@ class Measurements  // this is a class which is just for containing all the vari
 }
 class Caculator //Our main program
 {
-   static  Measurements m = new Measurements(); // calls Measurements class and creates all the variables in it static for Calculator class
+    var Measurements m = new Measurements(); // calls Measurements class and creates all the variables in it static for Calculator class
     static void UserInput() //method to get input from the user
     {
         string lenghtString, breadthString; // local variables only used here no need to have them in Measurments
